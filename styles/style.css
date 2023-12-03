@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(148, 143, 143);
+    font-family: sans-serif;
+    padding: 40px 0;
+}
+
+.container {
+    box-sizing: border-box;
+    width: 500px;
+    height: 400px;
+    margin-top: 80px;
+    padding: 25px 0;
+    margin: auto;
+    background-color: rgb(253, 252, 252);
+    border-radius: 5px;
+
+}
+
+.pic-me {
+    width: 150px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: 2px dotted gray;
+}
+
+.title1 {
+    width: 100px;
+    margin: 5px auto;
+    border-bottom: 2px solid rgb(159, 166, 173);
+    font-size: 20px;
+}
+
+.itile2 {
+    width: 220px;
+    margin: 15px auto;
+    font-size: 10px;
+    text-align: center;
+
+}
+
+.border-social {
+    height: 60px;
+    background-color: rgb(165, 157, 157);
+    text-align: center;
+}
+
+.border-social img {
+    width: 55px;
+    margin: 3px 3px;
+}
