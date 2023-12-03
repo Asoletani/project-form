@@ -36,7 +36,10 @@ body {
     margin: 15px auto;
     font-size: 10px;
     text-align: center;
-
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #ccc
 }
 
 .border-social {
